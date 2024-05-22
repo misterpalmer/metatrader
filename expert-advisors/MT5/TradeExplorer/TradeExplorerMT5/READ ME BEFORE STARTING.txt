@@ -1,0 +1,7 @@
+The USER MANUAL includes instructions on how to install to Meta Trader 4.  But the instructions to install to Meta Trader 4 are basically the same to install to Meta Trader 5 with one difference.
+
+Do this step in Meta Trader 5, before installing Trade Explorer.
+
+In Meta Trader 5 at the top, click TOOLS - > OPTIONS - > EXPERT ADVISORS.  Check to Allow Web Requests and add the Following url: https://www.fxphantom.com
+
+You can then follow the other steps presented in the manual and the software will work.  If you need assistance please email support@leapfx.com

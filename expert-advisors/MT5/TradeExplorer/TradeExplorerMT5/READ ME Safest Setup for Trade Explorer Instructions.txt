@@ -1,0 +1,3 @@
+If you have a smaller account, prefer less risk exposure for your account, or want to use a prop firm, then use the Low DD Set files only with only the pairs provided instead of those in the other preset folder.
+
+AUDUSD, EURGBP, EURJPY, EURUSD, GBPJPY, GBPUD, NZDUSD, USDCAD, USDCHF, USDJPY
