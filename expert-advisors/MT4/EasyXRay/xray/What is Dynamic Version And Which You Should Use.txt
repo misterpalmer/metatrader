@@ -1,0 +1,4 @@
+Dynamic version of Xray allows you to control deeper settings for Xray, this includes, lot sizes, trailing stop, stop loss, etc.  
+Feel free to use this version if you want more control over the system or want to experiment with the settings.
+
+If you don't want to have to decide, use the main version, and you only need to set risk only, which is more beginner friendly.

@@ -1,0 +1,11 @@
+In Version 5 of X-Ray we added more settings to give you more control over the software.
+
+If you would like you can experiment with different settings to test on new currency pairs or try to improve the system.
+
+If you are newer we've included 3 set files you can choose from to use a SET file, after you have attached the robot to the chart in Meta Trader 4 platform, click INPUTS, then click LOAD, and click the SET file you want to use (place them on your desktop so you can locate them easily).
+
+V3 SET: You can manually decide lot size starting.  Load this set file, then change Lots to anything you like.  .01 being lowest risk.  Please be careful to increase it slowly to make sure you do not use too high risk.  If unsure start with .01.
+
+V4 SET: This allows you to use the risk management option where you set safe risk, high risk, etc.  and it will decide lot sizes for you.
+
+V5 SET: This allows you to set lot size manually for starting and turns on trailing stop.  We recommend this one, but feel free to test out each one and decide which is ideal for you or adjust the settings as you see fit.

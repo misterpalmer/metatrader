@@ -1,0 +1,13 @@
+Receipt=
+Email=
+AutoLot=false
+RiskSetting=2
+Lots=0.01
+PipStep=60.0
+TakeProfit=30.0
+UseStopLoss=true
+StopLoss=4000.0
+UseTrailingStop=false
+TrailStart=50.0
+TrailStop=20.0
+multiplier=1.2
