@@ -1,0 +1,69 @@
+S_1=<==== General Settings ====>
+SetName=Power Growth Trader EURCHF M15
+MagicNumber=14007
+Slippage=5
+Lots=0.01
+DepoPer001Lot=0
+Take_Profit=15.00000000
+TP_perc=0
+min_TP=10.00000000
+TP_Swap=0
+S_3=<==== Extra Settings ====>
+StopOpenNewOrders=0
+Max_Spread_Buy=3.5
+Max_Spread_Sell=5.0
+Stop_Loss=0.0
+ExitDDPercent=0.0
+S_4=<==== Pairs Settings ====>
+Max_DrawDown=5.0
+Max_DrawDown_Opposite=1
+StopByMaxSymbolTrades=5
+StopEqualCurrencyTrade=1
+StopEqualCurrencyDelay=0
+CurrencyTradeMaxHours=0
+S_5=<==== ENTER SETTINGS ====>
+S_51=Bollinger Bands Settings
+BB_Period=9
+BB_Deviation=1.50000000
+Entry_Break=1.00000000
+Min_Volatility=20.00000000
+S_52=CCI Settings
+cci_Period_open=0
+TopLow_levels=100
+S_53=Candle Size Filter (if Max Candle Size = 0, filter off)
+UseMaxCandleForAllOrders=1
+maxcandle=20.00000000
+barcount=4
+S_54=<==== Grid Settings ====>
+ATR_Period=14
+ATR_Multiplier=3.00000000
+Multiplier1=1.00000000
+Multiplier2=1.60000000
+TPDecreasePercent=5.00000000
+BE_Level=8
+BE_Step=3.00000000
+Averaging_Level=12
+S_6=<==== EXIT SETTINGS ====>
+Exit_Profit_Percent=75.00000000
+Out_Channel_Distance=0.00000000
+cci_Period_exit=0
+Exit_MA_period=9
+Exit_Minutes=180
+S_7=<==== 1 Order Trade Time Filter ====>
+GMTOffset=0
+Start_Trade_Hour=18
+Start_Trade_Minute=0
+End_Trade_Hour=3
+End_Trade_Minute=0
+S_8=<==== 1 Order Rollover Filter ====>
+use_rollover_filter=1
+Start_Rollover_Hour=23
+Start_Rollover_Minute=55
+End_Rollover_Hour=0
+End_Rollover_Minute=15
+S_9=<==== Other Settings ====>
+showinfopanel=1
+VisualDebug=1
+Col_info=5197615
+LogMode=1
+WriteLogFile=0

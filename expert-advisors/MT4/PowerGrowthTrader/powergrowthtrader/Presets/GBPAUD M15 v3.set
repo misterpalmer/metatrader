@@ -1,0 +1,73 @@
+S_1=<==== General Settings ====>
+SetName=Power Growth Trader GBPAUD M15
+MagicNumber=146651
+Slippage=5
+Lots=0.01
+DepoPer001Lot=0
+Take_Profit=25.0
+TP_perc=0
+min_TP=10.0
+TP_Swap=false
+S_2=<==== ENTER SETTINGS ====>
+TrailingStartLevel=0
+TrailingStep=0
+S_3=<==== EXIT SETTINGS ====>
+StopOpenNewOrders=false
+Max_Spread_Buy=3.0
+Max_Spread_Sell=5.0
+Stop_Loss=0.0
+ExitDDPercent=0.0
+S_4=<==== Pairs Settings ====>
+Max_DrawDown=5.0
+Max_DrawDown_Opposite=true
+StopByMaxSymbolTrades=4
+StopEqualCurrencyTrade=false
+StopEqualCurrencyDelay=false
+CurrencyTradeMaxHours=0
+S_5=<==== Trade Time Filter ====>
+S_21=Bollinger Bands Settings
+BB_Period=12
+BB_Deviation=2.0
+Entry_Break=1.0
+Min_Volatility=10.0
+S_22=CCI Settings
+cci_Period_open=12
+TopLow_levels=100
+S_23=Candle Size Filter (if Max Candle Size = 0, filter off)
+UseMaxCandleForAllOrders=true
+maxcandle=45.0
+barcount=3
+S_31=<==== Grid Settings ====>
+ATR_Period=96
+ATR_Multiplier=3.5
+Multiplier1=2.0
+Multiplier2=1.6
+SameGridLotSize=0
+TPDecreasePercent=8.0
+BE_Level=5
+BE_Step=1.0
+Averaging_Level=8
+S_6=<==== Rollover Filter ====>
+Exit_Profit_Percent=80.0
+Out_Channel_Distance=0.0
+cci_Period_exit=0
+Exit_MA_period=24
+Exit_Minutes=180
+S_7=<==== Other Settings ====>
+GMTOffset=0
+Start_Trade_Hour=23
+Start_Trade_Minute=0
+End_Trade_Hour=2
+End_Trade_Minute=0
+S_8=<==== 1 Order Rollover Filter ====>
+use_rollover_filter=true
+Start_Rollover_Hour=23
+Start_Rollover_Minute=55
+End_Rollover_Hour=0
+End_Rollover_Minute=30
+S_9=<==== Other Settings ====>
+showinfopanel=true
+VisualDebug=true
+Col_info=15453831
+LogMode=1
+WriteLogFile=false
