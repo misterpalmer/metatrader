@@ -1,0 +1,7 @@
+If you need to reset the robot for some reason, or reset it up rather, OR you want to close any trades out to start the robot fresh.  It is very important to follow these steps.
+
+First turn off the robot.  You can do this by clicking Automated trading button at the top, and now it should be red.
+
+Next, close any open trades by the robot.  Next, you can re-attach the robot to the charts but be sure to change the  Buy Number Setting and Sell Number Setting, you can change them to any number, they just need to be different than the last number.  
+
+That number is used by the robot to identify its own trades.  This resets trading back to normal.  If you don't do this it could consider trades ongoing and keep opening trades at higher lot size that you close.
