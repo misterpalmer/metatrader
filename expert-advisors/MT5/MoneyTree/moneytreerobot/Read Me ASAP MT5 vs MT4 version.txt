@@ -1,0 +1,1 @@
+If you are using Meta Trader 4, which is our recommended and preferred choice.  Then use the robot file Money Tree V10.ex4 only for Forex folder.  If you are a Meta Trader 5 user, then use the Money Tree MT5.ex5 file only for experts folder.  Please note we prefer MT4, so Money Tree V10.ex4 would be used with your Meta trader 4 platform.
