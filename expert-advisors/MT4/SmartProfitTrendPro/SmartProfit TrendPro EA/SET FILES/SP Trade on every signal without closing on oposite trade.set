@@ -1,0 +1,11 @@
+MM=1
+Martin=1
+Spread=25
+TakeProfit=0
+TrailingStop=50
+MAXPERCLOSS=100.0
+persignal=0
+CloseSig=0
+Magic=170717
+Period1=99
+Level=7.20000000
